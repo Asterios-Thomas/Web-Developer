@@ -6,10 +6,17 @@
 - <u>High School Graduate</u> 
 
 <h2>Languages</h2>
--Very Good Knowledge of the English Language at B1 Level
+- Very Good Knowledge of the English Language at B1 Level
  (Basic Communication Certificate in English)
 
 <h2>Computer Knowledge</h2>
 - <i>Wordpress, HTML, Css, C++, C, C#, PHP, JavaScript, Java, MySql, Microsoft Office</i>
-  
+
+<h2>Session with Certifications</h2>
+
+• WpGreece – Wordpress Basics (IEK AKMI) <i>(December 15, 2023)</i>
+• Git & Github (IEK AKMI) <i>(December 5, 2023)</i>
+• Center for Digital Transformation and Digital Skills Visit to the International Center for Digital Transformation and Digital Skills of Cisco (IEK AKMI) November 27
+• BASIC PRINCIPLES OF DIGITAL MARKETING (IEK AKMI) November 21, 2023
+• METAVERSE & AI (IEK AKMI) November 16, 2023
 asterios-thomas.github.io/web-developer
