@@ -7,7 +7,7 @@
 
 <h2>Languages</h2>
 - Very Good Knowledge of the English Language at B1 Level
- (Basic Communication Certificate in English)
+ <br>(Basic Communication Certificate in English)</br>
 
 <h2>Computer Knowledge</h2>
 - <i>Wordpress, HTML, Css, C++, C, C#, PHP, JavaScript, Java, MySql, Microsoft Office</i>
