@@ -18,11 +18,11 @@
 
 • Git & Github (IEK AKMI) <i>(December 5, 2023)</i>
 
-• Center for Digital Transformation and Digital Skills Visit to the International Center for Digital Transformation and Digital Skills of Cisco (IEK AKMI) November 27
+• Center for Digital Transformation and Digital Skills Visit to the International Center for Digital Transformation and Digital Skills of Cisco (IEK AKMI) <i>(November 27, 2023)</i>
 
-• BASIC PRINCIPLES OF DIGITAL MARKETING (IEK AKMI) November 21, 2023
+• BASIC PRINCIPLES OF DIGITAL MARKETING (IEK AKMI) <i>(November 21, 2023)</i>
 
-• METAVERSE & AI (IEK AKMI) November 16, 2023
+• METAVERSE & AI (IEK AKMI) <i>(November 16, 2023)</i>
 
 
 asterios-thomas.github.io/web-developer
