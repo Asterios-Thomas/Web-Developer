@@ -9,5 +9,7 @@
 -Very Good Knowledge of the English Language at B1 Level
  (Basic Communication Certificate in English)
 
+ <h2>Computer Knowledge</h2>
+<i>Wordpress,HTML,Css,C++,C,C#,PHP,JavaScript,Java</i>
   
 asterios-thomas.github.io/web-developer
