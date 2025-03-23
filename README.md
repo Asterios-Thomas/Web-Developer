@@ -1,6 +1,6 @@
 # Web-Developer/Game-Designer
 
-<h1>Education</h1>
+<h2>Education</h2>
 - HIGH SCHOOL GRADUATE
 - UNDERGRADUATE STUDIES: IT Application Technician (Multimedia/Web Designer-Developer/Video Games) IEK AKMI
   
