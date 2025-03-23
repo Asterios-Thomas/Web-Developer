@@ -10,6 +10,6 @@
  (Basic Communication Certificate in English)
 
 <h2>Computer Knowledge</h2>
-- <i>Wordpress, HTML , Css ,C++,C,C#,PHP,JavaScript,Java</i>
+- <i>Wordpress, HTML, Css, C++, C, C#, PHP, JavaScript, Java, MySql, Microsoft Office</i>
   
 asterios-thomas.github.io/web-developer
