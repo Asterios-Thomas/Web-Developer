@@ -16,7 +16,7 @@
 
 • WpGreece – Wordpress Basics (IEK AKMI) <i>(December 15, 2023)</i>
 
-• <b>Git & Github<b> (IEK AKMI) <i>(December 5, 2023)</i>
+• <h4>Git & Github<b></h4> (IEK AKMI) <i>(December 5, 2023)</i>
 
 • Center for Digital Transformation and Digital Skills Visit to the International Center for Digital Transformation and Digital Skills of Cisco (IEK AKMI) <i>(November 27, 2023)</i>
 
